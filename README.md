@@ -5,7 +5,7 @@ The AI Doctor Chatbot is an artificial intelligence-powered virtual assistant de
 
 ## Run command 
 
-```
+```bash
   flutter packages get
   flutter run   
 ```
